@@ -1,0 +1,6 @@
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FourthString\bin\Debug\FourthString.exe.config
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FourthString\bin\Debug\FourthString.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FourthString\bin\Debug\FourthString.pdb
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FourthString\obj\Debug\FourthString.csproj.CoreCompileInputs.cache
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FourthString\obj\Debug\FourthString.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FourthString\obj\Debug\FourthString.pdb

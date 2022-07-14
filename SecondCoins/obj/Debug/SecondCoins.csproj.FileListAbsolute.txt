@@ -1,0 +1,6 @@
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\SecondCoins\bin\Debug\SecondCoins.exe.config
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\SecondCoins\bin\Debug\SecondCoins.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\SecondCoins\bin\Debug\SecondCoins.pdb
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\SecondCoins\obj\Debug\SecondCoins.csproj.CoreCompileInputs.cache
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\SecondCoins\obj\Debug\SecondCoins.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\SecondCoins\obj\Debug\SecondCoins.pdb

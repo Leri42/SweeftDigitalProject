@@ -1,0 +1,6 @@
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\ThirdMinArray\bin\Debug\ThirdMinArray.exe.config
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\ThirdMinArray\bin\Debug\ThirdMinArray.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\ThirdMinArray\bin\Debug\ThirdMinArray.pdb
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\ThirdMinArray\obj\Debug\ThirdMinArray.csproj.CoreCompileInputs.cache
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\ThirdMinArray\obj\Debug\ThirdMinArray.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\ThirdMinArray\obj\Debug\ThirdMinArray.pdb

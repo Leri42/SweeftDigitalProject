@@ -1,0 +1,7 @@
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FirstPalindrome\bin\Debug\FirstPalindrome.exe.config
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FirstPalindrome\bin\Debug\FirstPalindrome.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FirstPalindrome\bin\Debug\FirstPalindrome.pdb
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FirstPalindrome\obj\Debug\FirstPalindrome.csprojAssemblyReference.cache
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FirstPalindrome\obj\Debug\FirstPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FirstPalindrome\obj\Debug\FirstPalindrome.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\FirstPalindrome\obj\Debug\FirstPalindrome.pdb

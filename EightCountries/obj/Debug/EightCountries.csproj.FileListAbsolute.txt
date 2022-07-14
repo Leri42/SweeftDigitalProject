@@ -1,0 +1,10 @@
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\bin\Debug\EightCountries.exe.config
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\bin\Debug\EightCountries.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\bin\Debug\EightCountries.pdb
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\obj\Debug\EightCountries.csprojAssemblyReference.cache
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\obj\Debug\EightCountries.csproj.CoreCompileInputs.cache
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\obj\Debug\EightCountries.exe
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\obj\Debug\EightCountries.pdb
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gugag\source\TestProjects\SweeftDigitalProject\EightCountries\obj\Debug\EightCountries.csproj.CopyComplete
