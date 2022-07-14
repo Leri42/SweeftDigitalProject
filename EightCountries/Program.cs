@@ -22,7 +22,6 @@ namespace EightCountries
         {
             try
             {
-
                 HttpClient client = new HttpClient();
                 string apiUrl = Settings.Default.ApiUrl;
                 var responseMsg = await client.GetAsync(apiUrl);
