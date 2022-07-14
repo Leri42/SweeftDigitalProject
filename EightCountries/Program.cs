@@ -29,7 +29,6 @@ namespace EightCountries
 
                 var responseResult = await responseMsg.Content.ReadAsStringAsync();
                 var results = JArray.Parse(responseResult);
-                //var allCountries = new List<CountryResult>();
                 foreach(var res in results)
                 {
                     var countryResult = res.ToObject<CountryResult>();
@@ -46,7 +45,6 @@ namespace EightCountries
                         $"population : {countryResult.Population}"
                     };
                     File.WriteAllLines(fileName, lines);
-                    //allCountries.Add(countryResult);
                 }
             }
             
