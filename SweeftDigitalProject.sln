@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30320.27
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstPalindrome", "FirstPalindrome\FirstPalindrome.csproj", "{6DF89646-76B8-45A1-BC80-AEBB0CDF57CF}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveStairs", "FiveStairs\FiveStairs.csproj", "{EB6B4BA8-C19D-473C-8D91-5B3CD6D2A87F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightCountries", "EightCountries\EightCountries.csproj", "{37234A7C-013E-4A47-9298-53D73703D469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenEntity", "SevenEntity\SevenEntity.csproj", "{7B01EDF7-9CA8-41FE-939D-FA4F6E113442}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{37234A7C-013E-4A47-9298-53D73703D469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37234A7C-013E-4A47-9298-53D73703D469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37234A7C-013E-4A47-9298-53D73703D469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B01EDF7-9CA8-41FE-939D-FA4F6E113442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B01EDF7-9CA8-41FE-939D-FA4F6E113442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B01EDF7-9CA8-41FE-939D-FA4F6E113442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B01EDF7-9CA8-41FE-939D-FA4F6E113442}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

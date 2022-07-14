@@ -1,0 +1,13 @@
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\bin\Debug\ConsoleApp6.exe
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\bin\Debug\ConsoleApp6.pdb
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\bin\Debug\EntityFramework.dll
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\bin\Debug\EntityFramework.xml
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\obj\Debug\SevenEntity.csproj.AssemblyReference.cache
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\obj\Debug\SevenEntity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\obj\Debug\SevenEntity.csproj.CoreCompileInputs.cache
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\obj\Debug\SevenEntity.csproj.CopyComplete
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\obj\Debug\ConsoleApp6.exe
+C:\Users\Leri\source\repos\SweeftDigitalProject\SevenEntity\obj\Debug\ConsoleApp6.pdb
